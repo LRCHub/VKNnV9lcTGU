@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "CORE PRIDE",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-16T18:15:23.395395Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CORE PRIDE",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_CORE_PRIDE_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CORE PRIDE",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_CORE_PRIDE_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Core Pride (From \"Blue Exorcist\")",
+      "artist": "NateWantsToBattle",
+      "has_synced": false,
+      "path": "select/03_Core_Pride_(From__Blue_Exorcist_)_NateWantsToBattle.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Core Pride (From \"Blue Exorcist\")",
+      "artist": "NateWantsToBattle",
+      "has_synced": false,
+      "path": "select/04_Core_Pride_(From__Blue_Exorcist_)_NateWantsToBattle.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "CORE PRIDE",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/05_CORE_PRIDE_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Core Pride (From \"Blue Exorcist\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/06_Core_Pride_(From__Blue_Exorcist_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Core Pride (From \"Blue Exorcist\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/07_Core_Pride_(From__Blue_Exorcist_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CORE PRIDE [LIVE at ZEPP TOKYO 2011.07.27]",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/08_CORE_PRIDE_[LIVE_at_ZEPP_TOKYO_2011.07.27]_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CORE PRIDE",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/09_CORE_PRIDE_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Core Pride - KING'S PARADE at Kobe World Hall",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/10_Core_Pride_-_KING'S_PARADE_at_Kobe_World_Hall_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "CORE PRIDE",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/11_CORE_PRIDE_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Core Pride",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/12_Core_Pride_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Core Pride (From “Blue Exorcist”)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/13_Core_Pride_(From_“Blue_Exorcist”)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Core Pride",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/14_Core_Pride_AmaLee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CORE PRIDE",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_CORE_PRIDE_UVERworld.txt"
+    }
+  ]
+}
